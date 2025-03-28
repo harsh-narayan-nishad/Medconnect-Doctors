@@ -127,9 +127,9 @@ export default function SignInForm() {
                   </Link>
                 </div>
                 <div>
-                  <Button className="w-full" size="sm">
-                    Sign in
-                  </Button>
+                <Link to="/">
+      <Button className="w-full" size="sm">Sign in</Button>
+    </Link>
                 </div>
               </div>
             </form>

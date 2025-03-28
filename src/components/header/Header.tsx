@@ -79,7 +79,7 @@ const Header: React.FC<HeaderProps> = ({ onClick, onToggle }) => {
           </button>
 
           <Link to="/" className="lg:hidden">
-            <img
+            {/* <img
               className="dark:hidden"
               src="./images/logo/logo.svg"
               alt="Logo"
@@ -88,7 +88,8 @@ const Header: React.FC<HeaderProps> = ({ onClick, onToggle }) => {
               className="hidden dark:block"
               src="./images/logo/logo-dark.svg"
               alt="Logo"
-            />
+            /> */}
+            <h3>Medconnect</h3>
           </Link>
 
           <button
