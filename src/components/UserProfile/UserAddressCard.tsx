@@ -153,9 +153,9 @@ export default function DoctorAddressCard() {
   
   // Simulated doctor data (replace with actual API data)
   const [doctorData, setDoctorData] = useState<DoctorAddress>({
-    country: "United States",
-    cityState: "Phoenix, Arizona",
-    postalCode: "ERT 2489",
+    country: "India",
+    cityState: "Noida",
+    postalCode: "201310",
     taxId: "AS4568384",
   });
 
