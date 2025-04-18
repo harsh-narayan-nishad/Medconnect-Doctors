@@ -6,8 +6,8 @@ export default function SignIn() {
   return (
     <>
       <PageMeta
-title="MedConnect | Secure Sign-In Portal"
-description="Access the MedConnect Sign-In Dashboard to securely log in to your medical management system. Ensure seamless authentication for healthcare professionals and patients."
+title="Mediconnect | Secure Sign-In Portal"
+description="Access the Mediconnect Sign-In Dashboard to securely log in to your medical management system. Ensure seamless authentication for healthcare professionals and patients."
 
       />
       <AuthLayout>

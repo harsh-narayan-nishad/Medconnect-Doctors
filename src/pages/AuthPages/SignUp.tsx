@@ -6,8 +6,8 @@ export default function SignUp() {
   return (
     <>
       <PageMeta
-title="Medconnect SignUp Dashboard | Medconnect - Health Dashboard"
-description="This is the SignUp Dashboard page for Medconnect - Health Dashboard"
+title="Mediconnect SignUp Dashboard | Mediconnect - Health Dashboard"
+description="This is the SignUp Dashboard page for Mediconnect - Health Dashboard"
       />
       <AuthLayout>
         <SignUpForm />

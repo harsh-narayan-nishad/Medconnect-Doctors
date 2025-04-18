@@ -118,8 +118,8 @@ const Calendar: React.FC = () => {
   return (
     <>
       <PageMeta
-        title="MedConnect | Medical Appointment Calendar"
-        description="This is the MedConnect Medical Calendar Dashboard, designed for scheduling patient appointments, tracking consultations, and managing healthcare workflows efficiently."
+        title="Mediconnect | Medical Appointment Calendar"
+        description="This is the Mediconnect Medical Calendar Dashboard, designed for scheduling patient appointments, tracking consultations, and managing healthcare workflows efficiently."
 
       />
       <div className="rounded-2xl border  border-gray-200 bg-white dark:border-gray-800 dark:bg-white/[0.03]">
@@ -157,7 +157,7 @@ const Calendar: React.FC = () => {
                 {selectedEvent ? "Edit Event" : "Add Event"}
               </h5>
               <p className="text-sm text-gray-500 dark:text-gray-400">
-                Plan your next big moment: schedule or edit an event to stay on
+                Plan your next big moment: Calender or edit an event to stay on
                 track
               </p>
             </div>
@@ -215,7 +215,7 @@ const Calendar: React.FC = () => {
                   ))}
                 </div>
               </div>
-
+              
               <div className="mt-6">
                 <label className="mb-1.5 block text-sm font-medium text-gray-700 dark:text-gray-400">
                   Enter Start Date
@@ -230,7 +230,7 @@ const Calendar: React.FC = () => {
                   />
                 </div>
               </div>
-
+              
               <div className="mt-6">
                 <label className="mb-1.5 block text-sm font-medium text-gray-700 dark:text-gray-400">
                   Enter End Date

@@ -8,9 +8,8 @@ export default function UserProfiles() {
   return (
     <>
       <PageMeta
-title="MedConnect | Patient Profile Dashboard"
-description="This is the MedConnect Patient Profile Dashboard, designed for managing patient records, medical history, prescriptions, and healthcare interactions efficiently."
-
+        title="Mediconnect | Patient Profile Dashboard"
+        description="This is the Mediconnect Patient Profile Dashboard, designed for managing patient records, medical history, prescriptions, and healthcare interactions efficiently."
       />
       <PageBreadcrumb pageTitle="Profile" />
       <div className="rounded-2xl border border-gray-200 bg-white p-5 dark:border-gray-800 dark:bg-white/[0.03] lg:p-6">

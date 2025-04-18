@@ -89,7 +89,7 @@ const Header: React.FC<HeaderProps> = ({ onClick, onToggle }) => {
               src="./images/logo/logo-dark.svg"
               alt="Logo"
             /> */}
-            <h3>Medconnect</h3>
+            <h3>Mediconnect</h3>
           </Link>
 
           <button

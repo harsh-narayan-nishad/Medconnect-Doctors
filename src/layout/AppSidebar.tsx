@@ -32,7 +32,7 @@ const navItems: NavItem[] = [
   },
   {
     icon: <CalenderIcon />,
-    name: "Schedule",
+    name: "Calender",
     path: "/calendar",
   },
   {
@@ -292,7 +292,7 @@ const AppSidebar: React.FC = () => {
                 width={150}
                 height={40}
               /> */}
-              <p>Medconnect</p>
+              <p>Mediconnect</p>
             </>
           ) : (
             <img

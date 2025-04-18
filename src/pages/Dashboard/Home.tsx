@@ -10,8 +10,8 @@ export default function Home() {
   return (
     <>
       <PageMeta
-      title="MedConnect | Advanced Healthcare Management Dashboard"
-      description="MedConnect is a comprehensive healthcare management dashboard designed for seamless medical administration, patient tracking, and hospital analytics."  
+      title="Mediconnect | Advanced Healthcare Management Dashboard"
+      description="Mediconnect is a comprehensive healthcare management dashboard designed for seamless medical administration, patient tracking, and hospital analytics."  
       
       />
       <div className="grid grid-cols-12 gap-4 md:gap-6">

@@ -1,3 +1,4 @@
+import {Link} from "react-router";
 interface Doctor {
   name: string;
   specialty: string;
@@ -29,14 +30,23 @@ export default function SidebarWidget() {
       <p className="text-sm text-gray-600 dark:text-gray-400">
         Contact: {doctorData.contact}
       </p>
-      <a
+      {/* <a
         href="#"
         target="_blank"
         rel="nofollow"
         className="mt-4 inline-block w-full rounded-lg bg-blue-700 p-3 font-medium text-white hover:bg-red-600"
       >
+
         Sign Out
-      </a>
+      </a> */}
+
+<Link
+          to="/signin"
+          className="mt-4 inline-block w-full rounded-lg bg-blue-700 p-3 font-medium text-white hover:bg-red-600"
+          >
+         
+          Sign out
+        </Link>
     </div>
   );
 }

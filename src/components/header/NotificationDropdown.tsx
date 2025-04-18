@@ -101,7 +101,7 @@ export default function NotificationDropdown() {
     </span>
     <span> requests permission to modify</span>
     <span className="font-medium text-gray-800 dark:text-white/90">
-      Patient Record - Medconnect
+      Patient Record - Mediconnect
     </span>
   </span>
 
@@ -138,7 +138,7 @@ export default function NotificationDropdown() {
     </span>
     <span>requests permission to update</span>
     <span className="font-medium text-gray-800 dark:text-white/90">
-      Medical Record - Medconnect
+      Medical Record - Mediconnect
     </span>
   </span>
 
@@ -175,7 +175,7 @@ export default function NotificationDropdown() {
                   </span>
                   <span> requests permission to change</span>
                   <span className="font-medium text-gray-800 dark:text-white/90">
-                    Patient Record - Medconnect
+                    Patient Record - Mediconnect
                   </span>
                 </span>
 
@@ -212,7 +212,7 @@ export default function NotificationDropdown() {
                   </span>
                   <span>requests permission to change</span>
                   <span className="font-medium text-gray-800 dark:text-white/90">
-                    Patient Record - Medconnect
+                    Patient Record - Mediconnect
                   </span>
                 </span> 
 
@@ -248,7 +248,7 @@ export default function NotificationDropdown() {
                   </span>
                   <span> requests permission to change</span>
                   <span className="font-medium text-gray-800 dark:text-white/90">
-                    Patient Record - Medconnect
+                    Patient Record - Mediconnect
                   </span>
                 </span>
 
@@ -284,7 +284,7 @@ export default function NotificationDropdown() {
                   </span>
                   <span> requests permission to change</span>
                   <span className="font-medium text-gray-800 dark:text-white/90">
-                    Patient Record - Medconnect
+                    Patient Record - Mediconnect
                   </span>
                 </span>
 
@@ -320,7 +320,7 @@ export default function NotificationDropdown() {
                   </span>
                   <span> requests permission to change</span>
                   <span className="font-medium text-gray-800 dark:text-white/90">
-                    Patient Record - Medconnect
+                    Patient Record - Mediconnect
                   </span>
                 </span>
 
@@ -356,7 +356,7 @@ export default function NotificationDropdown() {
                   </span>
                   <span>requests permission to change</span>
                   <span className="font-medium text-gray-800 dark:text-white/90">
-                    Patient Record - Medconnect
+                    Patient Record - Mediconnect
                   </span>
                 </span>
 
