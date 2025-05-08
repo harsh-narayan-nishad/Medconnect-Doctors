@@ -11,8 +11,8 @@ export default function FormElements() {
   return (
     <div>
       <PageMeta
-        title="Medconnect-Doctors - Dashboard Template"
-        description="This is Medconnect  Elements  Dashboard page for Mediconnect - React.js Tailwind CSS Admin Dashboard Template"
+        title="Mediconnect-Doctors - Dashboard Template"
+        description="This is Mediconnect  Elements  Dashboard page for Mediconnect - React.js Tailwind CSS Admin Dashboard Template"
       />
       <PageBreadcrumb pageTitle="From Elements" />
       <div className="grid grid-cols-1 gap-6 xl:grid-cols-2">
