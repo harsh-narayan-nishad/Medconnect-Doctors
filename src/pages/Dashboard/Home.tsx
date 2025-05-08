@@ -1,5 +1,5 @@
 import MedicalMetrics from "../../components/MedicalData/MedicalMatrix";
-// import MonthlySalesChart from "../../components/MedicalData/MonthlySalesChart";
+import MonthlyUserChart from "../../components/MedicalData/MonthlyUserChart";
 // import StatisticsChart from "../../components/MedicalData/StatisticsChart";
 // import MonthlyTarget from "../../components/MedicalData/MonthlyTarget";
 import RecentAppointments from "../../components/MedicalData/RecentAppointments";
@@ -18,7 +18,7 @@ export default function Home() {
         <div className="col-span-12 space-y-6 xl:col-span-7">
           <MedicalMetrics />
 
-          {/* <MonthlySalesChart /> */}
+          <MonthlyUserChart />
         </div>
 {/* 
         <div className="col-span-12 xl:col-span-5">
