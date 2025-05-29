@@ -31,7 +31,7 @@ export default function SidebarWidget() {
         Contact: {doctorData.contact}
       </p> */}
 <Link
-          to="/signin"
+          to="/"
           className="mt-4 inline-block w-full rounded-lg bg-gradient-to-r text-white from-orange-500 to-orange-800 p-3 font-medium cursor-pointer hover:bg-red-600"
           >
          
